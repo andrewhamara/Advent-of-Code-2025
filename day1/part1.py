@@ -1,5 +1,4 @@
 fname = "input.txt"
-#fname = "smaller.txt"
 with open(fname, 'r') as f:
     instructions = f.readlines()
 
